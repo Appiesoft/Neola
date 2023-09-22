@@ -157,7 +157,7 @@ const Home = () => {
       <section className="bg-zinc-100 mt-5 pt-3">
         <div class="flex justify-center py-5">
           <div class="flex flex-col lg:flex-row items-center max-w-7xl w-[90%] m-4">
-            <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex flex-col w-[90%] lg:w-[35%] h-96 brightness-110 hover:brightness-90 ">
+            <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex flex-col w-[90%] lg:w-[35%] h-96 brightness-110 hover:brightness-90 mt-3">
               <div class="absolute inset-0 bg-white-900 bg-opacity-50">
                 <div class="flex flex-col items-start justify-center p-5 text-black-300 bg-white">
                   <div class="font-bold text-lg m-2 mt-[30%]">
@@ -179,7 +179,7 @@ const Home = () => {
               </div>
             </div>
             <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex flex-col w-[90%] lg:w-[40%] h-96 brightness-110 hover:brightness-90  bgimg"></div>
-            <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex flex-col w-[90%] lg:w-[35%] h-96 brightness-110 hover:brightness-90 ">
+            <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex flex-col w-[90%] lg:w-[35%] h-96 brightness-110 hover:brightness-90 mt-3">
               <div class="absolute inset-0 bg-white-900  bg-opacity-50 ">
                 <div
                   class="flex flex-col items-start

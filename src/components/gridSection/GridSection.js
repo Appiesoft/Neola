@@ -40,7 +40,7 @@ const GridSection = () => {
         <div>
           <div class="flex flex-col lg:flex-row items-center w-full ">
             <div class="bg-no-repeat bg-cover bg-center lg:bg-left flex bg-opacity-50 flex-col w-full h-96 brightness-110  bgimggs ">
-              <div class="flex flex-col items-center justify-center p-2 text-black-300">
+              <div class="flex flex-col items-center justify-center p-2 text-black-300 bgheight">
                 <div class="flex items-center justify-center  ">
                   <div class="container my-5 py-5">
                     <div class="row">

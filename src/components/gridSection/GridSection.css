@@ -2,7 +2,7 @@
     background-image: url('../../static/girlimage.webp');
     background-position: center;
     background-repeat: no-repeat;
-height: 500px;
+height: 97%;
 }
 .react-multi-carousel-list  {
     width: 77%;
@@ -78,4 +78,7 @@ height: 500px;
     font-size: 22px;
     letter-spacing: 2px;
     color: #505050;
+}
+.bgheight{
+    height: 97%;
 }
