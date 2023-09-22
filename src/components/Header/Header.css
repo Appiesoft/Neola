@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    column-gap: 22px;
+   
+}
+h6{
+    font-weight: 200 !important;
+}
+.nav a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #1F1F1F;
+    text-decoration: none !important;
+}

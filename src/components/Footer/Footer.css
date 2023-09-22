@@ -1,0 +1,12 @@
+.gapss{
+    column-gap: 319px;
+}
+.bgfooter{
+    background-color: #EAEAEA;
+}
+.search{
+    border-bottom: 2px solid rgb(3, 3, 3);
+}
+input .search2{
+background: none !important;
+}

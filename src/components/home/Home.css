@@ -1,0 +1,17 @@
+.bordessr{
+    border-bottom: 1px solid #b9b0b0;
+    font-size: 12px;
+    color: #b9b0b0;
+}
+.borderBox{
+    border-bottom: 1px solid #b9b0b0;
+    font-size: 12px;
+    color: #262626;
+}
+.bgimg{
+    background-image: url('../../static/grid.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 250% !important;
+}
